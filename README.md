@@ -55,16 +55,34 @@ Virtualboxin versio oli tämä.
 <img width="253" height="25" alt="image" src="https://github.com/user-attachments/assets/d67bfdce-7443-440c-af0a-67f661269c7b" />
 
 
-Tämän jälkeen laitoin vagrant up komennon käynnistääkseen vagrantin ja se käynnistyi. 
-
-<img width="538" height="149" alt="image" src="https://github.com/user-attachments/assets/8ee018cb-3e5c-4c18-8e47-ee5b3f315bcf" />
-
-
-
 b)
+
+Aloitin
+
+
 
 
 c)
+
+
+Aloitin tehtävän luomalla uuden hakemiston ja vaihdoin siihen. 
+
+<img width="132" height="25" alt="image" src="https://github.com/user-attachments/assets/a5206188-d7a1-4eed-96db-49334c4ffac6" />
+
+Tämän jälkeen tallensin tiedostoon Vagrantfile skriptin, jonka sain Karvinen 2021: Two Machine Virtual Network With Debian 11 Bullseye and Vagrant, https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/ sivulta 
+
+
+<img width="329" height="153" alt="image" src="https://github.com/user-attachments/assets/2743d266-f3c2-46bb-8a61-2066da0f50de" />
+
+Kun olin käynnistämässä vagrantia, niin se alkoi herjaamaan tätä: 
+
+
+<img width="373" height="206" alt="image" src="https://github.com/user-attachments/assets/5c9cf86c-f14d-42ca-bf0a-5d0f785ace88" />
+
+
+
+Yritin katsoa netistä vinkkejä, mutta en päässyt ongelmanratkaisussa eteenpäin pidemmän ajan jälkeenkään. 
+
 
 
 d)
