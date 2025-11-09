@@ -139,6 +139,8 @@ Tämän jälkeen ajoin sen verkon yli:
 Ja näin sain molemmat tilat kokeiltua verkon yli. 
 
 
+Loppujen lopuksi epäonnistunut tehtävä minulta tuon vagrantin takia ja korjailen sen varmaan ensi tunnilla yhdessä eri henkilöiden kanssa. 
+
 
 
 ## Lähteet: 
