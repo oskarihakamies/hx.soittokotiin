@@ -1,4 +1,4 @@
-# hx.soittokotiin
+# h3.soittokotiin
 
 
 ## Karvinen 2021: Two Machine Virtual Network With Debian 11 Bullseye and Vagrant 
@@ -19,9 +19,9 @@
 
 ## Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves
 
--
--
--
+- Ohjeet ja komennot ovat aika tiiviitä, joten tätä ennen pitäisi tietää linuxin perusteet, jotta ohjelman teko onnistuisi paljon helpommin. 
+- Näytetään, miten kolmea erilaista konetta voidaan pyörittää ja annettu valmis vagrantfile
+- Lopullisena tavoitteena on saada idempotenssi
 
 
 
