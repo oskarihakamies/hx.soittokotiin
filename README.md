@@ -117,7 +117,26 @@ En tiedä jos kyseessä on Windowsin sisäinen esto, minkä takia en pääse ete
 
 e)
 
+Viimeisenä tehtävänä oli kokeilla vähintään kahta eri tilaa verkon yli. Valitsin tässä pkg ja file. 
 
+
+Käynnistin Masterin ja minionin ja tarkistin sitten Masterissa yhteyden pinggaamalla: 
+
+
+<img width="283" height="86" alt="image" src="https://github.com/user-attachments/assets/ff2313f9-779b-40c1-9364-4006078d6418" />
+
+Tämän jälkeen loin SLS-tiedoston aiempien tehtävien pohjalta, missä käytin pkg ja file
+
+<img width="376" height="110" alt="image" src="https://github.com/user-attachments/assets/ed30f475-f69c-4126-8f5e-a2ce08a9c671" />
+
+Tämän jälkeen ajoin sen verkon yli:
+
+<img width="348" height="177" alt="image" src="https://github.com/user-attachments/assets/25d9fd31-b0a6-4a35-a2de-44a633df36f8" />
+
+<img width="320" height="84" alt="image" src="https://github.com/user-attachments/assets/fde76947-66b8-4ead-83e5-37f0194a39ce" />
+
+
+Ja näin sain molemmat tilat kokeiltua verkon yli. 
 
 
 
